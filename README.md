@@ -5,7 +5,9 @@ This project is developed as part of the **Infosys Springboard Virtual Internshi
 The goal is to build a **smart solution for reporting, tracking, and managing street cleanliness issues** using modern web technologies.  
 
 ---
+## Demo
 
+---
 ## 🛠️ Tech Stack  
 - **Frontend:** React + Vite, TailwindCSS  
 - **Backend:** Node.js + Express  
