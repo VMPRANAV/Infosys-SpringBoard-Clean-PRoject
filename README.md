@@ -6,6 +6,8 @@ The goal is to build a **smart solution for reporting, tracking, and managing st
 
 ---
 ## Demo
+[![Watch the video](https://img.youtube.com/vi/US08IBuXeyM/maxresdefault.jpg)](https://youtu.be/US08IBuXeyM)
+
 
 ---
 ## 🛠️ Tech Stack  
